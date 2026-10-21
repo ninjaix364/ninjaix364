@@ -17,7 +17,7 @@
 
 <a href="https://gifs.alphacoders.com/gifs/view/219797"><img align="right" width="250" src="https://giffiles.alphacoders.com/219/219797.gif" alt="Diana, a guerreira lunar de League of Legends" /></a>
 
-Sou uma pessoa desenvolvedora em constante evolução: aprendo na prática, quebro a cabeça com alguns bugs e tento entender o *porquê* das coisas — não apenas fazer funcionar.
+Sou uma pessoa desenvolvedora em constante evolução: aprendo na prática, quebro a cabeça com alguns bugs e tento entender o _porquê_ das coisas — não apenas fazer funcionar.
 
 Gosto de transformar ideias em projetos reais, organizar interfaces, conectar telas com lógica e bancos de dados e melhorar o código a cada versão. Este perfil é um pouco de portfólio e um pouco de diário de bordo: reúne o que estou construindo, estudando e descobrindo pelo caminho.
 
@@ -52,7 +52,7 @@ Essa lista não é uma coleção de troféus nem uma afirmação de domínio abs
 Quando não estou tentando convencer algum código a colaborar, provavelmente estou explorando um mundo virtual, pensando em uma estratégia ou inventando detalhes para algum personagem.
 
 - 🌙 **League of Legends:** Diana na rota do meio tem um lugar especial por aqui.
-- ⚔️ **MMORPGs:** gosto de explorar mundos como *Black Desert Online*.
+- ⚔️ **MMORPGs:** gosto de explorar mundos como _Black Desert Online_.
 - 🗝️ **RPG e criação de personagens:** histórias, conceitos sombrios, nomes com significado e personagens com personalidade própria.
 - 🖤 **Estética:** tons escuros, atmosfera gótica e interfaces limpas — sem precisar colocar neon em tudo.
 
@@ -79,4 +79,3 @@ Quando não estou tentando convencer algum código a colaborar, provavelmente es
   <br />
   <sub>feito por Ninjaix</sub>
 </div>
-
